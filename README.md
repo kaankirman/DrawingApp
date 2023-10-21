@@ -1,6 +1,6 @@
 # DrawingApp
  
-a drawing app that can undo, redo, select background image and save drawing to device.
+a simple drawing app in which you can change brush size/color, undo, redo, select background image and save drawing to device.
 
 
 
